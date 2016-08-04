@@ -1,0 +1,40 @@
+_repo: The-Jewel-of-Seven-Stars_3781
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stoker, Bram
+    alias: Stoker, Abraham
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '190'
+    url: http://www.gutenberg.org/2009/agents/190
+    wikipedia: http://en.wikipedia.org/wiki/Bram_Stoker
+description: "The Jewel of Seven Stars is a 1903 horror novel by Bram Stoker. The\
+  \ story is a first-person narrative of a young man pulled into an archaeologist's\
+  \ plot to revive Queen Tera, an ancient Egyptian mummy. The novel explores common\
+  \ fin-de-siecle themes such as imperialism, the rise of the New Woman and feminism,\
+  \ and societal progress.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3781'
+  wikidata: Q7743210
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mummies -- Fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Archaeologists -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Jewel of Seven Stars
+url: http://www.gutenberg.org/ebooks/3781
+wikipedia:
+- https://el.wikipedia.org/wiki/%CE%A4%CE%BF_%CE%9A%CF%8C%CF%83%CE%BC%CE%B7%CE%BC%CE%B1_%CF%84%CF%89%CE%BD_%CE%95%CF%86%CF%84%CE%AC_%CE%91%CF%83%CF%84%CE%B5%CF%81%CE%B9%CF%8E%CE%BD
+- https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D9%87%D8%B1%D8%A9_%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85_%D8%A7%D9%84%D8%B3%D8%A8%D8%B9%D8%A9
+- https://en.wikipedia.org/wiki/The_Jewel_of_Seven_Stars
+- https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D1%80%D0%B1_%D1%81%D0%B5%D0%BC%D0%B8_%D0%B7%D1%96%D1%80%D0%BE%D0%BA
+- https://it.wikipedia.org/wiki/Il_gioiello_delle_sette_stelle
