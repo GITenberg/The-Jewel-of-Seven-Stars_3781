@@ -1,5 +1,8 @@
 _repo: The-Jewel-of-Seven-Stars_3781
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stoker, Bram
@@ -14,6 +17,8 @@ description: "The Jewel of Seven Stars is a 1903 horror novel by Bram Stoker. Th
   \ plot to revive Queen Tera, an ancient Egyptian mummy. The novel explores common\
   \ fin-de-siecle themes such as imperialism, the rise of the New Woman and feminism,\
   \ and societal progress.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3781#The-Jewel-of-Seven-Stars
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
